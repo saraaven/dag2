@@ -1,0 +1,14 @@
+body {
+	background: #ffcdff;
+	font: 16pt "Arial";
+	width: 600px;
+	margin: 0 auto; 
+
+}
+h1 {
+	color: #ffffff;
+}
+
+p {
+	border-style: solid;
+}
